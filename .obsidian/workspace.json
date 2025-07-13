@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "9b9afc82b941b15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a34332c380e1d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcf9e54ed4ff944e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_KnowCards/半正定与最大特征值.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "半正定与最大特征值"
+            }
+          },
+          {
+            "id": "b2bc024115ec0723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Random/如何构建任务系统？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何构建任务系统？"
+            }
+          },
+          {
+            "id": "9e74287a95b30566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_KnowCards/Pauli Frame.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pauli Frame"
+            }
+          },
+          {
+            "id": "16a3aa21c5983704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Info/Efficient Magic State Distillation by Zero-Level Distillation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Efficient Magic State Distillation by Zero-Level Distillation"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7308d77b8279996",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fdc442be97d8724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f787cecbd7a6364",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3bb1ccc35dbd31db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "351b9ab2804d01be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "right": {
+    "id": "44a8af7d9845676f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c51b54a18cd91ae",
+        "type": "tabs",
+        "dimension": 70.06880733944955,
+        "children": [
+          {
+            "id": "8fae934c36c340e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Random/如何构建任务系统？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "如何构建任务系统？ 的大纲"
+            }
+          },
+          {
+            "id": "ad4dbfc725274853",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f4b022165319cef3",
+        "type": "tabs",
+        "dimension": 29.931192660550458,
+        "children": [
+          {
+            "id": "33d12ceb944aedc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Random/如何构建任务系统？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "如何构建任务系统？ 的反向链接列表"
+            }
+          },
+          {
+            "id": "c5fec880871ab438",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-06-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-06-23 的出链列表"
+            }
+          },
+          {
+            "id": "0f245ba6bd5b7cb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "b2bc024115ec0723",
+  "lastOpenFiles": [
+    "01_Random/如何写笔记？.md",
+    "02_Info/Predictive Window Decoding for Fault-Tolerant Quantum Programs.md",
+    "01_Random/如何构建任务系统？.md",
+    "00_Inbox/Problems.md",
+    "03_KnowCards/Choi-Jamiolkowski Isomorphism.md",
+    "03_KnowCards/Pauli Frame.md",
+    "04_Weekly/2025.7.5 - 2025.7.11.md",
+    "03_KnowCards/SDP.md",
+    "03_KnowCards/SDP 转为无约束优化.md",
+    "03_KnowCards/Window Decoding.md",
+    "03_KnowCards/Trace 的一些性质.md",
+    "05_Project/Project - Magic & Metrology.md",
+    "03_KnowCards/Gate Teleportation.md",
+    "03_KnowCards/Choi 矩阵的形式 & 信道的秩.md",
+    "03_KnowCards/半正定与最大特征值.md",
+    "01_Random/如何构建个人知识库？.md",
+    "02_Info/Efficient Magic State Distillation by Zero-Level Distillation.md",
+    "00_Inbox/Ideas.md",
+    "attachments/Pasted image 20250713155512.png",
+    "attachments/Pasted image 20250713155320.png",
+    "attachments/Pasted image 20250713154958.png",
+    "03_KnowCards/Phase-Point Operator 的对角元只有 1 和 0.md",
+    "attachments/Pasted image 20250711174550.png",
+    "attachments/Pasted image 20250711173144.png",
+    "attachments/Pasted image 20250711171740.png",
+    "attachments/Pasted image 20250711171646.png",
+    "attachments/Pasted image 20250711170936.png",
+    "attachments/Pasted image 20250711170934.png",
+    "04_Weekly/2025.6.28 - 2025.7.4.md",
+    "04_Weekly/2025.6.21 - 2025.6.27.md",
+    "attachments/Pasted image 20250711154926.png",
+    "03_KnowCards/MSD Circuit For Steane Code.md",
+    "Templates/文献阅读.md",
+    "Templates/文献比较.md",
+    "Choi-Jamiolkowski Isomorphism}Choi 矩阵.md",
+    "Choi-Jamiolkowski_Isomorphism/Files",
+    "Choi-Jamiolkowski_Isomorphism/Choi-Jamiolkowski Isomorphism_output.tex",
+    "Choi-Jamiolkowski_Isomorphism/header.tex",
+    "Choi-Jamiolkowski_Isomorphism",
+    "attachments",
+    "Bell 测量的恒等式.md",
+    "04_Weekly",
+    "01_Random",
+    "Templates",
+    "05_Project",
+    "03_KnowCards",
+    "未命名.canvas",
+    "Untitled.canvas"
+  ]
+}
