@@ -5,13 +5,13 @@ tags:
   - knowledge
 ---
 
-## Definition
+# Definition
 
 ![[Pasted image 20250627200657.png|800]]
 
 这是通过 Steane code 构造 Transversal H 门进行魔态蒸馏的线路图，一眼看上去很复杂，可以逐部分分析。
 
-## Encoding
+# Encoding
 
 这一部分完成的是任意量子态（这里是魔态 $\ket{A}$）的注入。之所以看着面生是因为之前 surface code 的编码线路太有规律了，而且平时注入的都是 $\ket{0}$ 态。CNOT 门的插入规律看下面的代码就能理解：
 
@@ -56,7 +56,7 @@ for i in range(r):
 - 从下往上看：经过 H 门后执行的是 4-body CX，测量 X 稳定子；
 - 从上往下看：直接执行的是 4-body CZ，测量 Z 稳定子。
 
-## Hardmard Test
+# Hardmard Test
 
 ![[Pasted image 20250627204941.png|200]]
 
@@ -64,7 +64,7 @@ for i in range(r):
 
 为保证线路容错性，需要制备 cat qubits 并执行 trasversal CNOT，如果测得结果是偶数，则检测通过。
 
-## Decoding
+# Decoding
 
 ![[Pasted image 20250627204957.png|200]]
 

@@ -5,7 +5,7 @@
   "foldIndent": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A3",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
@@ -15,5 +15,6 @@
     "attachments/",
     "Templates/",
     "04_Weekly/"
-  ]
+  ],
+  "newLinkFormat": "relative"
 }

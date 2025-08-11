@@ -7,7 +7,7 @@ tags:
 aliases: []
 ---
 
-## Choi 矩阵的数值形式
+# Choi 矩阵的数值形式
 
 我们可以分析 [[Choi-Jamiolkowski Isomorphism#Definition|Choi 矩阵]] 的数值形式，先从外积表示转为张量积表示：
 
@@ -24,7 +24,7 @@ $$
 
 ![[265a1e14b0b62085da5ce8658e54c2a.jpg|600]]
 
-## 信道的 Kraus 秩（Choi 秩）
+# 信道的 Kraus 秩（Choi 秩）
 
 我们可以从上面这个分块矩阵（$\mathbb{C}^{mn\times mn}$）中拆出信道 $\mathcal{E}$ 对于每个 $E_{ij}$ 的作用矩阵：
 

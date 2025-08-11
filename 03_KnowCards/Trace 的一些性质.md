@@ -6,19 +6,20 @@ tags:
   - trick
 ---
 
-## Definition
+# Definition
 
 > [!NOTE] 定义 1：Trace
 > $\mathrm{Tr}[A]=\sum_{i=0}^{d-1} \bra{i}X\ket{i}$，其中 $d$ 为 Hilbert 空间维度
 
 很常用的基本性质：
+
 - $\mathrm{Tr}[AB]=\mathrm{Tr}[BA]$
 - $\mathrm{Tr}[aA+bB]=a\mathrm{Tr}[A]+b\mathrm{Tr}[B]$
 - $\mathrm{Tr}[A\otimes B]=\mathrm{Tr}[A]\times \mathrm{Tr}[B]$
 
-## Properties
+# Properties
 
-### 半正定矩阵相关
+## 半正定矩阵相关
 
 > [!NOTE] 引理 1
 > 正规算子的迹为特征值之和
@@ -46,7 +47,7 @@ $$
 
 **证明**：由 推论 1 显然而得。
 
-### 贝尔测量的恒等式
+## 贝尔测量的恒等式
 
 > [!NOTE] 定理 1
 > $$
@@ -64,11 +65,12 @@ $$
 &= \frac{1}{d} \mathrm{Tr}[AB^T]
 \end{aligned}
 $$
+
 其中第三个等号用到矩阵 $B$ 坐标的 identity。
 
 该定理反过来可能也能用上。
 
-### 偏迹
+## 偏迹
 
 当复合系统可以被写成张量积时，偏迹的定义非常直观，就是 trace 掉对应子系统。但即使系统是混合态，偏迹仍是良定义的线性超算符：
 
@@ -85,12 +87,14 @@ $$
 > $$
 
 例，最大纠缠态：
+
 $$
 \ket{\Phi^+} = \frac{1}{\sqrt{2}}(\ket{00} + \ket{11}), \quad \rho = \ket{\Phi^+} \bra{\Phi^+} 
 $$
 $$
 \mathrm{Tr}_B[\rho] = \frac{1}{2} (\ketbra{0}{0} + \ketbra{1}{1}) = \frac{I}{2}
 $$
+
 可以理解为对 $\ket{\Phi^+}$ 的每一个分量都取偏迹，只剩两个分量非平凡。
 
 > [!NOTE] 推论 3：无中生有

@@ -65,7 +65,7 @@ According to the numerical simulation, zero-level distillation with teleportatio
 
 预备部分：使用 Steane code 蒸馏 $\ket{A}$ 态的量子线路：[[MSD Circuit For Steane Code]]
 
-### Method(s)
+### Method
 
 ### Evaluation
 

@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcf9e54ed4ff944e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_KnowCards/半正定与最大特征值.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "半正定与最大特征值"
-            }
-          },
-          {
             "id": "b2bc024115ec0723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Random/如何构建任务系统？.md",
+                "file": "05_Project/Idea - Wavefront Scheduling - A Compiler-Informed Decoding Scheduler for Real-time Quantum Error Correction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何构建任务系统？"
-            }
-          },
-          {
-            "id": "9e74287a95b30566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_KnowCards/Pauli Frame.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pauli Frame"
-            }
-          },
-          {
-            "id": "16a3aa21c5983704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Info/Efficient Magic State Distillation by Zero-Level Distillation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Efficient Magic State Distillation by Zero-Level Distillation"
+              "title": "Idea - Wavefront Scheduling - A Compiler-Informed Decoding Scheduler for Real-time Quantum Error Correction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Random/如何构建任务系统？.md",
+                "file": "03_KnowCards/QCCD Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何构建任务系统？ 的大纲"
+              "title": "QCCD Architecture 的大纲"
             }
           },
           {
@@ -210,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Random/如何构建任务系统？.md",
+                "file": "03_KnowCards/QCCD Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "如何构建任务系统？ 的反向链接列表"
+              "title": "QCCD Architecture 的反向链接列表"
             }
           },
           {
@@ -267,53 +194,51 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "publish:发布更改": false
+      "random-note:开始漫游笔记": false
     }
   },
   "active": "b2bc024115ec0723",
   "lastOpenFiles": [
-    "01_Random/如何写笔记？.md",
-    "02_Info/Predictive Window Decoding for Fault-Tolerant Quantum Programs.md",
-    "01_Random/如何构建任务系统？.md",
-    "00_Inbox/Problems.md",
-    "03_KnowCards/Choi-Jamiolkowski Isomorphism.md",
-    "03_KnowCards/Pauli Frame.md",
-    "04_Weekly/2025.7.5 - 2025.7.11.md",
-    "03_KnowCards/SDP.md",
-    "03_KnowCards/SDP 转为无约束优化.md",
-    "03_KnowCards/Window Decoding.md",
-    "03_KnowCards/Trace 的一些性质.md",
     "05_Project/Project - Magic & Metrology.md",
+    "03_KnowCards/Window Decoding.md",
+    "05_Project/Idea - Wavefront Scheduling - A Compiler-Informed Decoding Scheduler for Real-time Quantum Error Correction.md",
+    "03_KnowCards/Parallel Window Decoding 是不可扩展的.md",
+    "03_KnowCards/Choi-Jamiolkowski Isomorphism.md",
+    "attachments/1e671bcd08af821fc60837b460e881fd.jpg",
+    "02_Info/Synchronization for Fault-Tolerant Quantum Computers.md",
+    "03_KnowCards/Spatially Window Decoding 的窗口大小与错误率.md",
+    "04_Weekly/2025.8.2-2025.8.10.md",
+    "05_Project/Sharing - How to Simulate Errors in Fault-Tolerant Quantum Computation.md",
+    "04_Weekly/2025.7.12 - 2025.7.18.md",
+    "03_KnowCards/Trace 的一些性质.md",
+    "03_KnowCards/Pauli Frame.md",
+    "attachments/367d559b0f6cf56ef0becacbef1e0bdf.jpg",
+    "attachments/Pasted image 20250808211207.png",
+    "02_Info/Predictive Window Decoding for Fault-Tolerant Quantum Programs.md",
+    "03_KnowCards/SDP 转为无约束优化.md",
     "03_KnowCards/Gate Teleportation.md",
     "03_KnowCards/Choi 矩阵的形式 & 信道的秩.md",
-    "03_KnowCards/半正定与最大特征值.md",
-    "01_Random/如何构建个人知识库？.md",
-    "02_Info/Efficient Magic State Distillation by Zero-Level Distillation.md",
-    "00_Inbox/Ideas.md",
-    "attachments/Pasted image 20250713155512.png",
-    "attachments/Pasted image 20250713155320.png",
-    "attachments/Pasted image 20250713154958.png",
+    "03_KnowCards/Syndrome Extraction Circuit for QLDPC Codes.md",
+    "attachments/Pasted image 20250808172219.png",
+    "attachments/Pasted image 20250808171611.png",
+    "attachments/Pasted image 20250808165240.png",
+    "attachments/Pasted image 20250808165150.png",
+    "attachments/Pasted image 20250808164442.png",
+    "03_KnowCards/SDP.md",
+    "03_KnowCards/QCCD Architecture.md",
     "03_KnowCards/Phase-Point Operator 的对角元只有 1 和 0.md",
-    "attachments/Pasted image 20250711174550.png",
-    "attachments/Pasted image 20250711173144.png",
-    "attachments/Pasted image 20250711171740.png",
-    "attachments/Pasted image 20250711171646.png",
-    "attachments/Pasted image 20250711170936.png",
-    "attachments/Pasted image 20250711170934.png",
-    "04_Weekly/2025.6.28 - 2025.7.4.md",
-    "04_Weekly/2025.6.21 - 2025.6.27.md",
-    "attachments/Pasted image 20250711154926.png",
     "03_KnowCards/MSD Circuit For Steane Code.md",
+    "03_KnowCards/体系结构顶会的 decoder.md",
+    "03_KnowCards/半正定与最大特征值.md",
+    "attachments/fb19a0ac2b172077954ec816e62baa07 1.jpg",
+    "attachments/fb19a0ac2b172077954ec816e62baa07.jpg",
     "Templates/文献阅读.md",
-    "Templates/文献比较.md",
-    "Choi-Jamiolkowski Isomorphism}Choi 矩阵.md",
+    "02_Info/Efficient Magic State Distillation by Zero-Level Distillation.md",
     "Choi-Jamiolkowski_Isomorphism/Files",
     "Choi-Jamiolkowski_Isomorphism/Choi-Jamiolkowski Isomorphism_output.tex",
     "Choi-Jamiolkowski_Isomorphism/header.tex",
     "Choi-Jamiolkowski_Isomorphism",
     "attachments",
-    "Bell 测量的恒等式.md",
     "04_Weekly",
     "01_Random",
     "Templates",
